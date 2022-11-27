@@ -1,0 +1,2 @@
+ctrl + shift + u + 2212 = minus symbol
+ctrl + shift + u + 0964 = dari
