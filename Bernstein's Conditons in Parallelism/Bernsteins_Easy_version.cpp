@@ -49,12 +49,12 @@ int main(){
             else {
                 if(!anti_dp){
                     cout << processName[i]<<" −−।−−> " << processName[j];
-                    (p < 3)? cout<<", ",p++ : p;
+                    (p < 2)? cout<<", ",p++ : p;
                 }
                 
                 if(!flow_dp){
                     cout << processName[i] << " −−−−−> " << processName[j];
-                    (p < 3)? cout<<", ",p++ : p;
+                    (p < 1)? cout<<", ",p++ : p;
                 }
 
                 if(!output_dp){
